@@ -5,6 +5,11 @@
     color: white;
     font-size: 3rem;
     text-transform: uppercase;
+
+    @media (max-width: 768px) {
+        margin-left: 1rem;
+        font-size: 2rem;
+    }
 }
 
 .h2 {
@@ -12,6 +17,10 @@
     font-weight: 500;
     font-size: 3.5rem;
     color: white;
+
+    @media (max-width: 768px) {
+        font-size: 2rem;
+    }
 }
 
 .listItem {
@@ -25,6 +34,12 @@
     &:hover {
         text-decoration: underline;
     }
+
+    @media (max-width: 768px) {
+        margin: 0;
+        font-size: 1.5rem;
+    }
+
 }
 
 .active {

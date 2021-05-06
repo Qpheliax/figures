@@ -3,6 +3,8 @@ body {
     margin: 0;
     background: rgb(0, 0, 0);
     background: linear-gradient(143deg, rgba(0, 0, 0, 1) 0%, rgba(128, 179, 171, 1) 100%);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .container {
