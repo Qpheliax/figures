@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;500&family=Zen+Dots&display=swap');
+
+.h1 {
+    font-family: 'Zen Dots', cursive;
+    color: white;
+    font-size: 3rem;
+    text-transform: uppercase;
+}
+
+.h2 {
+    font-family: 'Baloo 2', cursive;
+    font-weight: 500;
+    font-size: 3.5rem;
+    color: white;
+}
+
+.listItem {
+    font-family: 'Baloo 2', cursive;
+    font-weight: 400;
+    font-size: 1.9rem;
+    line-height: 1.6;
+    color: white;
+    cursor: pointer;
+
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+.active {
+    color: orange;
+}
