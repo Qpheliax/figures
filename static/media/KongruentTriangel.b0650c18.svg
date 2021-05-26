@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="505" height="410" viewBox="0 0 505 820" id="figure">
+    <line x1="590" y1="10" x2="590" y2="10" fill="none" stroke="#fff" strokeWidth="6" strokeDasharray="32, 32">
+        <animate attributeName="x2" attributeType="XML" from="590" to="-90" begin="1s" dur="1s" fill="freeze" />
+        <animate attributeName="y2" attributeType="XML" from="10" to="300" begin="1s" dur="1s" fill="freeze" />
+    </line>
+    <polygon points="0,10 590,10 490,300 -90,300" x="1.5" y="15" width="600" height="300" fill="none" stroke="#fff"
+        strokeWidth="6">
+        <animate attributeName="opacity" from="1" to="1" dur="2s" begin="0s" fill="freeze" repeatCount="1" />
+
+        <animate attributeName="opacity" from="1" to="0" dur="0.5s" begin="3s" fill="freeze" repeatCount="1" />
+    </polygon>
+    <g>
+        <polygon points="0,10 590,10 -90,300" x="1.5" y="15" width="600" height="300" fill="none" stroke="#fff"
+            strokeWidth="6">
+            <animate attributeName="opacity" from="0" to="0" dur="3s" begin="0s" fill="freeze" repeatCount="1" />
+            <animate attributeName="opacity" from="0" to="1" dur="1s" begin="3s" fill="freeze" repeatCount="1" />
+        </polygon>
+        <g>
+            <line x1="60" y2="-40" transform="translate(210 180)" fill="none" stroke="#f7de78" strokeWidth="5"></line>
+            <line x1="60" y2="-40" transform="translate(230 170)" fill="none" stroke="#f7de78" strokeWidth="5"></line>
+            <line x1="60" y2="-40" transform="translate(190 190)" fill="none" stroke="#f7de78" strokeWidth="5"></line>
+            <animate attributeName="opacity" from="0" to="0" dur="2s" begin="0s" fill="freeze" repeatCount="1" />
+            <animate attributeName="opacity" from="0" to="1" dur="1s" begin="2s" fill="freeze" repeatCount="1" />
+        </g>
+        <line x1="29" y2="59" transform="translate(270 -5)" fill="none" stroke="#ff7f11" strokeWidth="5">
+            <animate attributeName="opacity" from="0" to="0" dur="2s" begin="0s" fill="freeze" repeatCount="1" />
+            <animate attributeName="opacity" from="0" to="1" dur="1s" begin="2s" fill="freeze" repeatCount="1" />
+        </line>
+        <line x1="28" y2="58" transform="translate(250 -5)" fill="none" stroke="#ff7f11" strokeWidth="5">
+            <animate attributeName="opacity" from="0" to="0" dur="2s" begin="0s" fill="freeze" repeatCount="1" />
+            <animate attributeName="opacity" from="0" to="1" dur="1s" begin="2s" fill="freeze" repeatCount="1" />
+        </line>
+        <line x1="80" y2="5" transform="translate(-85 150)" fill="none" stroke="#01d5fe" strokeWidth="5">
+            <animate attributeName="opacity" from="0" to="0" dur="2s" begin="0s" fill="freeze" repeatCount="1" />
+            <animate attributeName="opacity" from="0" to="1" dur="1s" begin="2s" fill="freeze" repeatCount="1" />
+        </line>
+        {/* angle start f1 */}
+        <g>
+            <g transform="translate(-4 15)">
+                <path d="M0,27.2s17.582,1.244,28.066-5.557S41.937,0,41.937,0" transform="translate(0.106 0.334)"
+                    fill="none" stroke="#da8dfd" strokeWidth="3" />
+                <line x2="22" y2="30" transform="translate(16 7)" fill="none" stroke="#da8dfd" strokeWidth="3" />
+            </g>
+            <g transform="translate(440 10)">
+                <path d="M6.422,0S-.81,14.275.075,27.282,9.961,52.028,9.961,52.028"
+                    transform="matrix(0.999, -0.035, 0.035, 0.999, 22.002, 1.067)" fill="none" stroke="#c8dbe4"
+                    strokeWidth="3" />
+                <line x1="39" y1="1" transform="translate(0.045 21)" fill="none" stroke="#c8dbe4" strokeWidth="3" />
+                <line x1="39" y2="1" transform="translate(0.045 33)" fill="none" stroke="#c8dbe4" strokeWidth="3" />
+            </g>
+            <g transform="translate(-75 230)">
+                <path d="M0,.008S15.741-1.089,25.077,5.7,37.345,27.148,37.345,27.148"
+                    transform="matrix(1, -0.017, 0.017, 1, 0.132, 18.443)" fill="none" stroke="#55fe01"
+                    strokeWidth="3" />
+                <line y1="34" x2="16" transform="translate(5.367 0.734)" fill="none" stroke="#55fe01" strokeWidth="3" />
+                <line y1="41" x2="23" transform="translate(13.367 0.734)" fill="none" stroke="#55fe01"
+                    strokeWidth="3" />
+                <path d="M20.65,3.228,0,34" transform="translate(24.867 9.587)" fill="none" stroke="#55fe01"
+                    strokeWidth="3" />
+            </g>
+            <animate attributeName="opacity" from="0" to="0" dur="10s" begin="0s" fill="freeze" repeatCount="1" />
+            <animate attributeName="opacity" from="0" to="1" dur="1s" begin="10s" fill="freeze" repeatCount="1" />
+        </g>
+    </g>
+    <g>
+        <polygon points="590,10 490,300 -90,300" x="1.5" y="15" width="600" height="300" fill="none" stroke="#fff"
+            strokeWidth="6">
+            <animate attributeName="opacity" from="0" to="0" dur="3s" begin="0s" fill="freeze" repeatCount="1" />
+            <animate attributeName="opacity" from="0" to="1" dur="1s" begin="3s" fill="freeze" repeatCount="1" />
+        </polygon>
+        <g>
+            <line x1="60" y2="-40" transform="translate(210 180)" fill="none" stroke="#f7de78" strokeWidth="5"></line>
+            <line x1="60" y2="-40" transform="translate(230 170)" fill="none" stroke="#f7de78" strokeWidth="5"></line>
+            <line x1="60" y2="-40" transform="translate(190 190)" fill="none" stroke="#f7de78" strokeWidth="5"></line>
+            <animate attributeName="opacity" from="0" to="0" dur="2s" begin="0s" fill="freeze" repeatCount="1" />
+            <animate attributeName="opacity" from="0" to="1" dur="1s" begin="2s" fill="freeze" repeatCount="1" />
+        </g>
+        <line x1="29" y2="59" transform="translate(170 270)" fill="none" stroke="#ff7f11" strokeWidth="5">
+            <animate attributeName="opacity" from="0" to="0" dur="2s" begin="0s" fill="freeze" repeatCount="1" />
+            <animate attributeName="opacity" from="0" to="1" dur="1s" begin="2s" fill="freeze" repeatCount="1" />
+        </line>
+        <line x1="28" y2="58" transform="translate(150 270)" fill="none" stroke="#ff7f11" strokeWidth="5">
+            <animate attributeName="opacity" from="0" to="0" dur="2s" begin="0s" fill="freeze" repeatCount="1" />
+            <animate attributeName="opacity" from="0" to="1" dur="1s" begin="2s" fill="freeze" repeatCount="1" />
+        </line>
+        <line x1="80" y2="5" transform="translate(495 150)" fill="none" stroke="#01d5fe" strokeWidth="5">
+            <animate attributeName="opacity" from="0" to="0" dur="2s" begin="0s" fill="freeze" repeatCount="1" />
+            <animate attributeName="opacity" from="0" to="1" dur="1s" begin="2s" fill="freeze" repeatCount="1" />
+        </line>
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0 0" to="0 200" dur="1s"
+            begin="4s" fill="freeze" repeatCount="1" additive="sum" />
+        <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="180, 200, 200"
+            dur="1s" begin="6s" fill="freeze" repeatCount="1" additive="sum" />
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0" to="-92" dur="0.5s"
+            begin="7s" fill="freeze" repeatCount="1" additive="sum" />
+    </g>
+    <g>
+        {/* angle start f2 */}
+        <g transform="translate(-6 305)">
+            <path d="M0,27.2s17.582,1.244,28.066-5.557S41.937,0,41.937,0" transform="translate(0.106 0.334)" fill="none"
+                stroke="#da8dfd" strokeWidth="3" />
+            <line x2="22" y2="30" transform="translate(16 7)" fill="none" stroke="#da8dfd" strokeWidth="3" />
+        </g>
+        <g transform="translate(440 295)">
+            <path d="M6.422,0S-.81,14.275.075,27.282,9.961,52.028,9.961,52.028"
+                transform="matrix(0.999, -0.035, 0.035, 0.999, 22.002, 1.067)" fill="none" stroke="#c8dbe4"
+                strokeWidth="3" />
+            <line x1="39" y1="1" transform="translate(0.045 21)" fill="none" stroke="#c8dbe4" strokeWidth="3" />
+            <line x1="39" y2="1" transform="translate(0.045 33)" fill="none" stroke="#c8dbe4" strokeWidth="3" />
+        </g>
+        <g transform="translate(-80 525)">
+            <path d="M0,.008S15.741-1.089,25.077,5.7,37.345,27.148,37.345,27.148"
+                transform="matrix(1, -0.017, 0.017, 1, 0.132, 18.443)" fill="none" stroke="#55fe01" strokeWidth="3" />
+            <line y1="34" x2="16" transform="translate(5.367 0.734)" fill="none" stroke="#55fe01" strokeWidth="3" />
+            <line y1="41" x2="23" transform="translate(13.367 0.734)" fill="none" stroke="#55fe01" strokeWidth="3" />
+            <path d="M20.65,3.228,0,34" transform="translate(24.867 9.587)" fill="none" stroke="#55fe01"
+                strokeWidth="3" />
+        </g>
+        <animate attributeName="opacity" from="0" to="0" dur="10s" begin="0s" fill="freeze" repeatCount="1" />
+        <animate attributeName="opacity" from="0" to="1" dur="1s" begin="10s" fill="freeze" repeatCount="1" />
+    </g>
+    <polygon points="0,10 590,10 -90,300" x="1.5" y="15" transform="translate(0 290)" width="600" height="300"
+        fill="none" stroke="#8f0e00" strokeWidth="12" strokeDasharray="32, 32">
+        <animate attributeName="opacity" from="0" to="0" dur="8s" begin="0s" fill="freeze" repeatCount="1" />
+        <animate attributeName="opacity" from="0" to="1" dur="1s" begin="8s" fill="freeze" repeatCount="1" />
+        <animate attributeName="opacity" from="1" to="0" dur="1s" begin="11s" fill="freeze" repeatCount="1" />
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0, 0" to="0, -290"
+            dur="1s" begin="9s" fill="freeze" repeatCount="1" additive="sum" />
+    </polygon>
+</svg>

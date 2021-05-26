@@ -1,20 +1,34 @@
 {
   "files": {
-    "main.css": "/figures/static/css/main.3d6dbcef.chunk.css",
-    "main.js": "/figures/static/js/main.f01c8d09.chunk.js",
-    "main.js.map": "/figures/static/js/main.f01c8d09.chunk.js.map",
+    "main.css": "/figures/static/css/main.3107dbcb.chunk.css",
+    "main.js": "/figures/static/js/main.4098f145.chunk.js",
+    "main.js.map": "/figures/static/js/main.4098f145.chunk.js.map",
     "runtime-main.js": "/figures/static/js/runtime-main.203bc2f0.js",
     "runtime-main.js.map": "/figures/static/js/runtime-main.203bc2f0.js.map",
-    "static/js/2.02e15d87.chunk.js": "/figures/static/js/2.02e15d87.chunk.js",
-    "static/js/2.02e15d87.chunk.js.map": "/figures/static/js/2.02e15d87.chunk.js.map",
+    "static/js/2.12320729.chunk.js": "/figures/static/js/2.12320729.chunk.js",
+    "static/js/2.12320729.chunk.js.map": "/figures/static/js/2.12320729.chunk.js.map",
     "index.html": "/figures/index.html",
-    "static/css/main.3d6dbcef.chunk.css.map": "/figures/static/css/main.3d6dbcef.chunk.css.map",
-    "static/js/2.02e15d87.chunk.js.LICENSE.txt": "/figures/static/js/2.02e15d87.chunk.js.LICENSE.txt"
+    "static/css/main.3107dbcb.chunk.css.map": "/figures/static/css/main.3107dbcb.chunk.css.map",
+    "static/js/2.12320729.chunk.js.LICENSE.txt": "/figures/static/js/2.12320729.chunk.js.LICENSE.txt",
+    "static/media/KongruentTriangel.b0650c18.svg": "/figures/static/media/KongruentTriangel.b0650c18.svg",
+    "static/media/Kvadrat.31a299fa.svg": "/figures/static/media/Kvadrat.31a299fa.svg",
+    "static/media/LikbentTriangel.b37f28c8.svg": "/figures/static/media/LikbentTriangel.b37f28c8.svg",
+    "static/media/LikbentTriangelSymmetri.7f2c9d8d.svg": "/figures/static/media/LikbentTriangelSymmetri.7f2c9d8d.svg",
+    "static/media/LiksidigTriangel.1eb02458.svg": "/figures/static/media/LiksidigTriangel.1eb02458.svg",
+    "static/media/LiksidigTriangelSymmetri.4bff2eba.svg": "/figures/static/media/LiksidigTriangelSymmetri.4bff2eba.svg",
+    "static/media/Logo.105e7f2e.svg": "/figures/static/media/Logo.105e7f2e.svg",
+    "static/media/Parallellogram.7c103e24.svg": "/figures/static/media/Parallellogram.7c103e24.svg",
+    "static/media/RatvinkligTriangel.e7e26399.svg": "/figures/static/media/RatvinkligTriangel.e7e26399.svg",
+    "static/media/Rektangel.19d388a8.svg": "/figures/static/media/Rektangel.19d388a8.svg",
+    "static/media/Romb.e7fdf446.svg": "/figures/static/media/Romb.e7fdf446.svg",
+    "static/media/SpetsvinkligTriangel.6c61b348.svg": "/figures/static/media/SpetsvinkligTriangel.6c61b348.svg",
+    "static/media/Triangel.8d4b6c62.svg": "/figures/static/media/Triangel.8d4b6c62.svg",
+    "static/media/TrubbigTriangel.611b663b.svg": "/figures/static/media/TrubbigTriangel.611b663b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.203bc2f0.js",
-    "static/js/2.02e15d87.chunk.js",
-    "static/css/main.3d6dbcef.chunk.css",
-    "static/js/main.f01c8d09.chunk.js"
+    "static/js/2.12320729.chunk.js",
+    "static/css/main.3107dbcb.chunk.css",
+    "static/js/main.4098f145.chunk.js"
   ]
 }

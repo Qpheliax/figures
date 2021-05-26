@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="410" viewBox="0 0 500 410" id="figure">
+    <g transform="translate(135 50)">
+        <line x2="200" fill="none" stroke="#fff" strokeWidth="5">
+            <animateTransform attributeName="transform" attributeType="XML" type="rotate" values="0 100 0; -75 100 0"
+                dur="1s" begin="1s" fill="freeze" repeatCount="1" additive="sum" />
+            <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0 0" to="-94 2"
+                dur="1s" begin="1s" fill="freeze" repeatCount="1" additive="sum" />
+        </line>
+    </g>
+    <g transform="translate(135 100)">
+        <line x1="200" fill="none" stroke="#fff" strokeWidth="5">
+            <animateTransform attributeName="transform" attributeType="XML" type="rotate" values="0 125 0; 75 125 0"
+                dur="1s" begin="1s" fill="freeze" repeatCount="1" />
+            <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0 0" to="65 5"
+                dur="1s" begin="1s" fill="freeze" repeatCount="1" additive="sum" />
+        </line>
+    </g>
+    <g transform="translate(135 150)">
+        <line x1="100" fill="none" stroke="#fff" strokeWidth="5">
+            <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0" to="55 85"
+                dur="1s" begin="1s" fill="freeze" repeatCount="1" additive="sum" />
+        </line>
+    </g>
+    <g>
+        <g transform="translate(193, 200)">
+            <path d="M25.141,30.184s-14.96-.347-21.1-7.893S.583,0,.583,0"
+                transform="matrix(-0.999, -0.035, 0.035, -0.999, 25.17, 32.543)" fill="none" stroke="#55fe01"
+                strokeWidth="3" />
+            <line x1="16" y2="12" transform="translate(11 1.5)" fill="none" stroke="#55fe01" strokeWidth="2" />
+            <line x1="17" y2="11" transform="translate(15 8)" fill="none" stroke="#55fe01" strokeWidth="2" />
+        </g>
+        <g transform="translate(250, 200)">
+            <path d="M25.141,0s-14.96.347-21.1,7.893S.583,30.184.583,30.184"
+                transform="matrix(0.999, -0.035, 0.035, 0.999, 7.947, 2.377)" fill="none" stroke="#55fe01"
+                strokeWidth="3" />
+            <line x2="16" y2="12" transform="translate(7 1.5)" fill="none" stroke="#55fe01" strokeWidth="2" />
+            <line x2="17" y2="12" transform="translate(1 8)" fill="none" stroke="#55fe01" strokeWidth="2" />
+        </g>
+        <g transform="translate(223 70)">
+            <path d="M18.191,22.211S7.366,21.956,2.924,16.4.422,0,.422,0"
+                transform="matrix(0.616, -0.788, 0.788, 0.616, 1.887, 14.652)" fill="none" stroke="#da8dfd"
+                strokeWidth="3" />
+            <line y2="22" transform="translate(17 12)" fill="none" stroke="#da8dfd" strokeWidth="2" />
+        </g>
+
+        <line x1="30" y1="10" transform="translate(195 140)" fill="none" stroke="#01d5fe" strokeWidth="3" />
+        <line x1="30" y2="10" transform="translate(255 140)" fill="none" stroke="#01d5fe" strokeWidth="3" />
+        <animate attributeName="opacity" from="0" to="0" dur="1s" begin="0s" fill="freeze" repeatCount="1" />
+        <animate attributeName="opacity" from="0" to="1" dur="1s" begin="2s" fill="freeze" repeatCount="1" />
+    </g>
+</svg>
