@@ -1,0 +1,21 @@
+<svg id="logo_figures" width="100" heigth="100" viewBox="0 0 100 80">
+    <g id="Group_11" data-name="Group 11" transform="translate(1.414 24.003)">
+        <line x1="30.61" y2="29.285" fill="none" stroke="#01d5fe" stroke-linecap="round" strokeWidth="2" />
+        <line x1="30.61" y2="29.285" transform="translate(60.961)" fill="none" stroke="#01d5fe" stroke-linecap="round"
+            strokeWidth="2" />
+        <line x2="60.701" transform="translate(0.259 29.285)" fill="none" stroke="#01d5fe" stroke-linecap="round"
+            strokeWidth="2" />
+        <line x2="60.701" transform="translate(30.61)" fill="none" stroke="#01d5fe" stroke-linecap="round"
+            strokeWidth="2" />
+    </g>
+    <g transform="translate(21.134)" fill="none" stroke="#55fe01" strokeWidth="2">
+        <rect width="37" height="37" stroke="none" />
+        <rect x="1" y="1" width="35" height="35" fill="none" />
+    </g>
+    <g transform="translate(26.134 9)" fill="none">
+        <path d="M21,0,42,38H0Z" stroke="none" />
+        <path
+            d="M 21.00000190734863 4.134906768798828 L 3.390342712402344 36 L 38.60966110229492 36 L 21.00000190734863 4.134906768798828 M 21.00000190734863 0 L 42 38 L 3.814697265625e-06 38 L 21.00000190734863 0 Z"
+            stroke="none" fill="#da8dfd" />
+    </g>
+</svg>

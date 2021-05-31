@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/figures/static/css/main.3107dbcb.chunk.css",
-    "main.js": "/figures/static/js/main.4098f145.chunk.js",
-    "main.js.map": "/figures/static/js/main.4098f145.chunk.js.map",
+    "main.css": "/figures/static/css/main.f942f933.chunk.css",
+    "main.js": "/figures/static/js/main.72a5a599.chunk.js",
+    "main.js.map": "/figures/static/js/main.72a5a599.chunk.js.map",
     "runtime-main.js": "/figures/static/js/runtime-main.203bc2f0.js",
     "runtime-main.js.map": "/figures/static/js/runtime-main.203bc2f0.js.map",
-    "static/js/2.12320729.chunk.js": "/figures/static/js/2.12320729.chunk.js",
-    "static/js/2.12320729.chunk.js.map": "/figures/static/js/2.12320729.chunk.js.map",
+    "static/js/2.be04708e.chunk.js": "/figures/static/js/2.be04708e.chunk.js",
+    "static/js/2.be04708e.chunk.js.map": "/figures/static/js/2.be04708e.chunk.js.map",
     "index.html": "/figures/index.html",
-    "static/css/main.3107dbcb.chunk.css.map": "/figures/static/css/main.3107dbcb.chunk.css.map",
-    "static/js/2.12320729.chunk.js.LICENSE.txt": "/figures/static/js/2.12320729.chunk.js.LICENSE.txt",
+    "static/css/main.f942f933.chunk.css.map": "/figures/static/css/main.f942f933.chunk.css.map",
+    "static/js/2.be04708e.chunk.js.LICENSE.txt": "/figures/static/js/2.be04708e.chunk.js.LICENSE.txt",
     "static/media/KongruentTriangel.b0650c18.svg": "/figures/static/media/KongruentTriangel.b0650c18.svg",
     "static/media/Kvadrat.31a299fa.svg": "/figures/static/media/Kvadrat.31a299fa.svg",
     "static/media/LikbentTriangel.b37f28c8.svg": "/figures/static/media/LikbentTriangel.b37f28c8.svg",
     "static/media/LikbentTriangelSymmetri.7f2c9d8d.svg": "/figures/static/media/LikbentTriangelSymmetri.7f2c9d8d.svg",
     "static/media/LiksidigTriangel.1eb02458.svg": "/figures/static/media/LiksidigTriangel.1eb02458.svg",
     "static/media/LiksidigTriangelSymmetri.4bff2eba.svg": "/figures/static/media/LiksidigTriangelSymmetri.4bff2eba.svg",
-    "static/media/Logo.105e7f2e.svg": "/figures/static/media/Logo.105e7f2e.svg",
+    "static/media/Logo.dead53cf.svg": "/figures/static/media/Logo.dead53cf.svg",
+    "static/media/Logo_Figures.0c8041fa.svg": "/figures/static/media/Logo_Figures.0c8041fa.svg",
     "static/media/Parallellogram.7c103e24.svg": "/figures/static/media/Parallellogram.7c103e24.svg",
     "static/media/RatvinkligTriangel.e7e26399.svg": "/figures/static/media/RatvinkligTriangel.e7e26399.svg",
     "static/media/Rektangel.19d388a8.svg": "/figures/static/media/Rektangel.19d388a8.svg",
@@ -27,8 +28,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.203bc2f0.js",
-    "static/js/2.12320729.chunk.js",
-    "static/css/main.3107dbcb.chunk.css",
-    "static/js/main.4098f145.chunk.js"
+    "static/js/2.be04708e.chunk.js",
+    "static/css/main.f942f933.chunk.css",
+    "static/js/main.72a5a599.chunk.js"
   ]
 }
