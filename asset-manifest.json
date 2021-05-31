@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/figures/static/css/main.f942f933.chunk.css",
-    "main.js": "/figures/static/js/main.72a5a599.chunk.js",
-    "main.js.map": "/figures/static/js/main.72a5a599.chunk.js.map",
+    "main.css": "/figures/static/css/main.3c7fa7d1.chunk.css",
+    "main.js": "/figures/static/js/main.0d2e1679.chunk.js",
+    "main.js.map": "/figures/static/js/main.0d2e1679.chunk.js.map",
     "runtime-main.js": "/figures/static/js/runtime-main.203bc2f0.js",
     "runtime-main.js.map": "/figures/static/js/runtime-main.203bc2f0.js.map",
     "static/js/2.be04708e.chunk.js": "/figures/static/js/2.be04708e.chunk.js",
     "static/js/2.be04708e.chunk.js.map": "/figures/static/js/2.be04708e.chunk.js.map",
     "index.html": "/figures/index.html",
-    "static/css/main.f942f933.chunk.css.map": "/figures/static/css/main.f942f933.chunk.css.map",
+    "static/css/main.3c7fa7d1.chunk.css.map": "/figures/static/css/main.3c7fa7d1.chunk.css.map",
     "static/js/2.be04708e.chunk.js.LICENSE.txt": "/figures/static/js/2.be04708e.chunk.js.LICENSE.txt",
     "static/media/KongruentTriangel.b0650c18.svg": "/figures/static/media/KongruentTriangel.b0650c18.svg",
     "static/media/Kvadrat.31a299fa.svg": "/figures/static/media/Kvadrat.31a299fa.svg",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.203bc2f0.js",
     "static/js/2.be04708e.chunk.js",
-    "static/css/main.f942f933.chunk.css",
-    "static/js/main.72a5a599.chunk.js"
+    "static/css/main.3c7fa7d1.chunk.css",
+    "static/js/main.0d2e1679.chunk.js"
   ]
 }
