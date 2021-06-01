@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/figures/static/css/main.120479db.chunk.css",
-    "main.js": "/figures/static/js/main.969b5372.chunk.js",
-    "main.js.map": "/figures/static/js/main.969b5372.chunk.js.map",
+    "main.js": "/figures/static/js/main.353a0b50.chunk.js",
+    "main.js.map": "/figures/static/js/main.353a0b50.chunk.js.map",
     "runtime-main.js": "/figures/static/js/runtime-main.203bc2f0.js",
     "runtime-main.js.map": "/figures/static/js/runtime-main.203bc2f0.js.map",
     "static/js/2.be04708e.chunk.js": "/figures/static/js/2.be04708e.chunk.js",
@@ -10,28 +10,28 @@
     "index.html": "/figures/index.html",
     "static/css/main.120479db.chunk.css.map": "/figures/static/css/main.120479db.chunk.css.map",
     "static/js/2.be04708e.chunk.js.LICENSE.txt": "/figures/static/js/2.be04708e.chunk.js.LICENSE.txt",
-    "static/media/Burger.45e0d0e9.svg": "/figures/static/media/Burger.45e0d0e9.svg",
-    "static/media/Cross.eab28fa1.svg": "/figures/static/media/Cross.eab28fa1.svg",
-    "static/media/KongruentTriangel.00cd425f.svg": "/figures/static/media/KongruentTriangel.00cd425f.svg",
-    "static/media/Kvadrat.1240b658.svg": "/figures/static/media/Kvadrat.1240b658.svg",
-    "static/media/LikbentTriangel.b37f28c8.svg": "/figures/static/media/LikbentTriangel.b37f28c8.svg",
-    "static/media/LikbentTriangelSymmetri.7f2c9d8d.svg": "/figures/static/media/LikbentTriangelSymmetri.7f2c9d8d.svg",
-    "static/media/LiksidigTriangel.1eb02458.svg": "/figures/static/media/LiksidigTriangel.1eb02458.svg",
-    "static/media/LiksidigTriangelSymmetri.4bff2eba.svg": "/figures/static/media/LiksidigTriangelSymmetri.4bff2eba.svg",
-    "static/media/Logo.6f681a6f.svg": "/figures/static/media/Logo.6f681a6f.svg",
-    "static/media/Logo_Figures.0c8041fa.svg": "/figures/static/media/Logo_Figures.0c8041fa.svg",
-    "static/media/Parallellogram.85d48963.svg": "/figures/static/media/Parallellogram.85d48963.svg",
-    "static/media/RatvinkligTriangel.3105124e.svg": "/figures/static/media/RatvinkligTriangel.3105124e.svg",
-    "static/media/Rektangel.1a2fbd11.svg": "/figures/static/media/Rektangel.1a2fbd11.svg",
-    "static/media/Romb.c0defcbb.svg": "/figures/static/media/Romb.c0defcbb.svg",
-    "static/media/SpetsvinkligTriangel.60b730f1.svg": "/figures/static/media/SpetsvinkligTriangel.60b730f1.svg",
-    "static/media/Triangel.8d4b6c62.svg": "/figures/static/media/Triangel.8d4b6c62.svg",
-    "static/media/TrubbigTriangel.dced4676.svg": "/figures/static/media/TrubbigTriangel.dced4676.svg"
+    "static/media/Burger.f7935b3f.svg": "/figures/static/media/Burger.f7935b3f.svg",
+    "static/media/Cross.ec2f1735.svg": "/figures/static/media/Cross.ec2f1735.svg",
+    "static/media/KongruentTriangel.c60c5045.svg": "/figures/static/media/KongruentTriangel.c60c5045.svg",
+    "static/media/Kvadrat.bb515367.svg": "/figures/static/media/Kvadrat.bb515367.svg",
+    "static/media/LikbentTriangel.ea4ab967.svg": "/figures/static/media/LikbentTriangel.ea4ab967.svg",
+    "static/media/LikbentTriangelSymmetri.430b40de.svg": "/figures/static/media/LikbentTriangelSymmetri.430b40de.svg",
+    "static/media/LiksidigTriangel.2dee99db.svg": "/figures/static/media/LiksidigTriangel.2dee99db.svg",
+    "static/media/LiksidigTriangelSymmetri.06cf91d4.svg": "/figures/static/media/LiksidigTriangelSymmetri.06cf91d4.svg",
+    "static/media/Logo.7a00d69b.svg": "/figures/static/media/Logo.7a00d69b.svg",
+    "static/media/Logo_Figures.6abc58e5.svg": "/figures/static/media/Logo_Figures.6abc58e5.svg",
+    "static/media/Parallellogram.3937e342.svg": "/figures/static/media/Parallellogram.3937e342.svg",
+    "static/media/RatvinkligTriangel.5d4eede8.svg": "/figures/static/media/RatvinkligTriangel.5d4eede8.svg",
+    "static/media/Rektangel.16248232.svg": "/figures/static/media/Rektangel.16248232.svg",
+    "static/media/Romb.ff780f7a.svg": "/figures/static/media/Romb.ff780f7a.svg",
+    "static/media/SpetsvinkligTriangel.4284b3cb.svg": "/figures/static/media/SpetsvinkligTriangel.4284b3cb.svg",
+    "static/media/Triangel.e725c8fd.svg": "/figures/static/media/Triangel.e725c8fd.svg",
+    "static/media/TrubbigTriangel.07b6b863.svg": "/figures/static/media/TrubbigTriangel.07b6b863.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.203bc2f0.js",
     "static/js/2.be04708e.chunk.js",
     "static/css/main.120479db.chunk.css",
-    "static/js/main.969b5372.chunk.js"
+    "static/js/main.353a0b50.chunk.js"
   ]
 }

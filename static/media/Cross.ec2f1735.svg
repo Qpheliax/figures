@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="40" height="50" viewBox="0 0 150 150">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="40" height="50" viewBox="0 0 150 150">
     <line x2="136" transform="translate(5.536 3.536) rotate(45)" fill="none" stroke="#ffe69d" strokeWidth="15" />
     <line x2="136" transform="translate(99.702 3.536) rotate(135)" fill="none" stroke="#ffe69d" strokeWidth="15" />
 </svg>
