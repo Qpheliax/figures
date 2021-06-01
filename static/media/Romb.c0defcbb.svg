@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="505" height="300" viewBox="-300 0 1500 600" id="figure">
+<svg xmlns="http://www.w3.org/2000/svg" width="505" height="410" viewBox="-300 0 1500 820" id="figure">
     <rect className="parallellogram" x="1.5" y="1.5" width="600" height="300" fill="none" stroke="#fff" strokeWidth="5"
         transform="skewX(-30)">
         <animateTransform attributeName="transform" attributeType="XML" type="skewX" from="-30" to="0" dur="1s"
