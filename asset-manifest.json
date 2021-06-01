@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/figures/static/css/main.6092cc86.chunk.css",
-    "main.js": "/figures/static/js/main.353a0b50.chunk.js",
-    "main.js.map": "/figures/static/js/main.353a0b50.chunk.js.map",
+    "main.css": "/figures/static/css/main.2861af68.chunk.css",
+    "main.js": "/figures/static/js/main.51c27f11.chunk.js",
+    "main.js.map": "/figures/static/js/main.51c27f11.chunk.js.map",
     "runtime-main.js": "/figures/static/js/runtime-main.203bc2f0.js",
     "runtime-main.js.map": "/figures/static/js/runtime-main.203bc2f0.js.map",
     "static/js/2.be04708e.chunk.js": "/figures/static/js/2.be04708e.chunk.js",
     "static/js/2.be04708e.chunk.js.map": "/figures/static/js/2.be04708e.chunk.js.map",
     "index.html": "/figures/index.html",
-    "static/css/main.6092cc86.chunk.css.map": "/figures/static/css/main.6092cc86.chunk.css.map",
+    "static/css/main.2861af68.chunk.css.map": "/figures/static/css/main.2861af68.chunk.css.map",
     "static/js/2.be04708e.chunk.js.LICENSE.txt": "/figures/static/js/2.be04708e.chunk.js.LICENSE.txt",
     "static/media/Burger.f7935b3f.svg": "/figures/static/media/Burger.f7935b3f.svg",
     "static/media/Cross.ec2f1735.svg": "/figures/static/media/Cross.ec2f1735.svg",
@@ -31,7 +31,7 @@
   "entrypoints": [
     "static/js/runtime-main.203bc2f0.js",
     "static/js/2.be04708e.chunk.js",
-    "static/css/main.6092cc86.chunk.css",
-    "static/js/main.353a0b50.chunk.js"
+    "static/css/main.2861af68.chunk.css",
+    "static/js/main.51c27f11.chunk.js"
   ]
 }
