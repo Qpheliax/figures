@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="500" height="410" viewBox="0 0 500 410" id="figure">
+    <g transform="translate(135 50)">
+        <line x2="200" fill="none" stroke="#fff" strokeWidth="5">
+            <animateTransform attributeName="transform" attributeType="XML" type="rotate" values="0 100 0; -60 100 0"
+                dur="1s" begin="1s" fill="freeze" repeatCount="1" additive="sum" />
+            <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0 0" to="-75 -10"
+                dur="1s" begin="1s" fill="freeze" repeatCount="1" additive="sum" />
+        </line>
+    </g>
+    <g transform="translate(135 100)">
+        <line x1="200" fill="none" stroke="#fff" strokeWidth="5">
+            <animateTransform attributeName="transform" attributeType="XML" type="rotate" values="0 125 0; 60 125 0"
+                dur="1s" begin="1s" fill="freeze" repeatCount="1" />
+            <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0 0" to="46 -17"
+                dur="1s" begin="1s" fill="freeze" repeatCount="1" additive="sum" />
+        </line>
+    </g>
+    <g transform="translate(135 150)">
+        <line x1="200" fill="none" stroke="#fff" strokeWidth="5">
+            <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0" to="0 47" dur="1s"
+                begin="1s" fill="freeze" repeatCount="1" additive="sum" />
+        </line>
+    </g>
+    <g>
+        <path d="M28.664,35s-17.057-.4-24.057-9.152S.664,0,.664,0"
+            transform="matrix(-0.999, -0.035, 0.035, -0.999, 180, 200)" fill="none" stroke="#55fe01" strokeWidth="3" />
+
+        <text transform="translate(180 100)" fill="#55fe01" fontSize="20" fontFamily="Rubik-Regular, Rubik">
+            <tspan x="0" y="65">
+                60°
+            </tspan>
+        </text>
+        <path d="M28.664,35s-17.057-.4-24.057-9.152S.664,0,.664,0"
+            transform="matrix(0.616, -0.788, 0.788, 0.616, 214, 60)" fill="none" stroke="#55fe01" strokeWidth="3" />
+        <text transform="translate(222 35)" fill="#55fe01" fontSize="20" fontFamily="Rubik-Regular, Rubik">
+            <tspan x="0" y="65">
+                60°
+            </tspan>
+        </text>
+        <path d="M28.664,0S11.608.4,4.608,9.152.664,35,.664,35"
+            transform="matrix(0.999, -0.035, 0.035, 0.999, 290, 165)" fill="none" stroke="#55fe01" strokeWidth="3" />
+        <text transform="translate(263 99)" fill="#55fe01" fontSize="20" fontFamily="Rubik-Regular, Rubik">
+            <tspan x="0" y="65">
+                60°
+            </tspan>
+        </text>
+        <line y2="35" transform="translate(235 180)" fill="none" stroke="#01d5fe" strokeWidth="3" />
+        <line x1="30" y1="20" transform="translate(175 100)" fill="none" stroke="#01d5fe" strokeWidth="3" />
+        <line x1="30" y2="20" transform="translate(275 100)" fill="none" stroke="#01d5fe" strokeWidth="3" />
+        <animate attributeName="opacity" from="0" to="0" dur="1s" begin="0s" fill="freeze" repeatCount="1" />
+        <animate attributeName="opacity" from="0" to="1" dur="1s" begin="2s" fill="freeze" repeatCount="1" />
+    </g>
+</svg>

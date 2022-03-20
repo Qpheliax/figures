@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="600" height="410" viewBox="0 0 500 410" id="figure">
+    <g transform="translate(135 50)">
+        <line x2="200" fill="none" stroke="#fff" strokeWidth="5">
+            <animateTransform attributeName="transform" attributeType="XML" type="rotate" values="0 100 0; -60 100 0"
+                dur="1s" begin="1s" fill="freeze" repeatCount="1" additive="sum" />
+            <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0 0" to="-75 -10"
+                dur="1s" begin="1s" fill="freeze" repeatCount="1" additive="sum" />
+        </line>
+    </g>
+    <g transform="translate(135 100)">
+        <line x1="200" fill="none" stroke="#fff" strokeWidth="5">
+            <animateTransform attributeName="transform" attributeType="XML" type="rotate" values="0 125 0; 60 125 0"
+                dur="1s" begin="1s" fill="freeze" repeatCount="1" />
+            <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0 0" to="46 -17"
+                dur="1s" begin="1s" fill="freeze" repeatCount="1" additive="sum" />
+        </line>
+    </g>
+    <g transform="translate(135 150)">
+        <line x1="200" fill="none" stroke="#fff" strokeWidth="5">
+            <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0" to="0 47" dur="1s"
+                begin="1s" fill="freeze" repeatCount="1" additive="sum" />
+        </line>
+    </g>
+
+    <g>
+        <line y2="35" transform="translate(235 180)" fill="none" stroke="#01d5fe" strokeWidth="3" />
+        <line x1="30" y1="20" transform="translate(175 100)" fill="none" stroke="#01d5fe" strokeWidth="3" />
+        <line x1="30" y2="20" transform="translate(275 100)" fill="none" stroke="#01d5fe" strokeWidth="3" />
+        <animate attributeName="opacity" from="0" to="0" dur="1s" begin="0s" fill="freeze" repeatCount="1" />
+        <animate attributeName="opacity" from="0" to="1" dur="1s" begin="2s" fill="freeze" repeatCount="1" />
+        <animate attributeName="opacity" from="1" to="0" dur="1s" begin="3s" fill="freeze" repeatCount="1" />
+    </g>
+
+    <g>
+        <line x2="0" y2="220" transform="translate(237 10)" fill="none" stroke="#da8dfd" strokeWidth="4">
+            <animate attributeName="opacity" from="0" to="0" dur="1s" begin="0s" fill="freeze" repeatCount="1" />
+            <animate attributeName="opacity" from="0" to="1" dur="1s" begin="3s" fill="freeze" repeatCount="1" />
+            <animate attributeName="y2" attributeType="XML" from="0" to="220" dur="1s" begin="3s" fill="freeze"
+                repeatCount="1" />
+
+        </line>
+    </g>
+    <g>
+        <polygon points="237,25 336,197 237,197" x="1.5" y="15" width="600" height="300" fill="none" stroke="#8f0e00"
+            strokeWidth="6" strokeDasharray="20,20">
+            <animate attributeName="opacity" from="0" to="0" dur="4s" begin="0s" fill="freeze" repeatCount="1" />
+            <animate attributeName="opacity" from="0" to="1" dur="1s" begin="4.5s" fill="freeze" repeatCount="1" />
+            <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0" to="200" dur="1s"
+                begin="5s" fill="freeze" repeatCount="1" additive="sum" />
+
+            <animateTransform attributeName="transform" attributeType="XML" type="scale" from="1 1" to="-1 1" dur="2s"
+                begin="7s" fill="freeze" repeatCount="1" additive="sum" />
+            <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0" to="-275" dur="1s"
+                begin="7s" fill="freeze" repeatCount="1" additive="sum" />
+
+            <animate attributeName="opacity" from="1" to="0" dur="1s" begin="11s" fill="freeze" repeatCount="1" />
+        </polygon>
+        <polygon points="237,25 336,197 237,197" x="1.5" y="15" width="600" height="300" fill="none" stroke="#8f0e00"
+            strokeWidth="6" strokeDasharray="20,20">
+            <animate attributeName="opacity" from="0" to="0" dur="4s" begin="0s" fill="freeze" repeatCount="1" />
+            <animate attributeName="opacity" from="0" to="1" dur="1s" begin="4.5s" fill="freeze" repeatCount="1" />
+            <animate attributeName="opacity" from="1" to="0" dur="1s" begin="11s" fill="freeze" repeatCount="1" />
+        </polygon>
+    </g>
+
+    {-------------------------------}
+
+    <g>
+        <line x1="300" y1="100" x2="120" y2="210" fill="none" fill="none" stroke="#da8dfd" strokeWidth="4">
+            <animate attributeName="opacity" from="0" to="0" dur="1s" begin="0s" fill="freeze" repeatCount="1" />
+            <animate attributeName="opacity" from="0" to="1" dur="1s" begin="12s" fill="freeze" repeatCount="1" />
+            <animate attributeName="x2" attributeType="XML" from="300" to="120" begin="12s" dur="1s" fill="freeze" />
+            <animate attributeName="y2" attributeType="XML" from="100" to="210" begin="12s" dur="1s" fill="freeze" />
+        </line>
+    </g>
+
+    <polygon points="284,110 138,198 337,198" x="1.5" y="15" width="600" height="300" fill="none" stroke="#8f0e00"
+        strokeWidth="6" strokeDasharray="20,20">
+        <animate attributeName="opacity" from="0" to="0" dur="13s" begin="0s" fill="freeze" repeatCount="1" />
+        <animate attributeName="opacity" from="0" to="1" dur="1s" begin="13.5s" fill="freeze" repeatCount="1" />
+        <animate attributeName="opacity" from="1" to="0" dur="1s" begin="20s" fill="freeze" repeatCount="1" />
+    </polygon>
+
+    <polygon points="284,110 138,198 337,198" x="1.5" y="15" width="600" height="300" fill="none" stroke="#8f0e00"
+        strokeWidth="6" strokeDasharray="20,20">
+        <animate attributeName="opacity" from="0" to="0" dur="13.5s" begin="0s" fill="freeze" repeatCount="1" />
+        <animate attributeName="opacity" from="0" to="1" dur="1s" begin="13.5s" fill="freeze" repeatCount="1" />
+        <animate attributeName="opacity" from="1" to="0" dur="1s" begin="20s" fill="freeze" repeatCount="1" />
+
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0 0" to="0 150" dur="1s"
+            begin="15s" fill="freeze" repeatCount="1" additive="sum" />
+        <animateTransform attributeName="transform" attributeType="XML" type="scale" from="1 1" to="1 -1" dur="2s"
+            begin="17s" fill="freeze" repeatCount="1" additive="sum" />
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0 0" to="0 -77" dur="1s"
+            begin="17s" fill="freeze" repeatCount="1" additive="sum" />
+        <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="60, 282, 115"
+            dur="1s" begin="18s" fill="freeze" repeatCount="1" additive="sum" />
+    </polygon>
+
+    {-------------------------------}
+
+    <g>
+        <line x1="175" y1="100" x2="355" y2="210" fill="none" fill="none" stroke="#da8dfd" strokeWidth="4">
+            <animate attributeName="opacity" from="0" to="0" dur="1s" begin="0s" fill="freeze" repeatCount="1" />
+            <animate attributeName="opacity" from="0" to="1" dur="1s" begin="21s" fill="freeze" repeatCount="1" />
+            <animate attributeName="x2" attributeType="XML" from="175" to="355" begin="21s" dur="1s" fill="freeze" />
+            <animate attributeName="y2" attributeType="XML" from="100" to="210" begin="21s" dur="1s" fill="freeze" />
+        </line>
+    </g>
+
+    <polygon points="189,110 138,198 337,198" x="1.5" y="15" width="600" height="300" fill="none" stroke="#8f0e00"
+        strokeWidth="6" strokeDasharray="20,20">
+        <animate attributeName="opacity" from="0" to="0" dur="22s" begin="0s" fill="freeze" repeatCount="1" />
+        <animate attributeName="opacity" from="0" to="1" dur="1s" begin="22.5s" fill="freeze" repeatCount="1" />
+        <animate attributeName="opacity" from="1" to="0" dur="1s" begin="29s" fill="freeze" repeatCount="1" />
+    </polygon>
+
+    <polygon points="189,110 138,198 337,198" x="1.5" y="15" width="600" height="300" fill="none" stroke="#8f0e00"
+        strokeWidth="6" strokeDasharray="20,20">
+        <animate attributeName="opacity" from="0" to="0" dur="22s" begin="0s" fill="freeze" repeatCount="1" />
+        <animate attributeName="opacity" from="0" to="1" dur="1s" begin="22.5s" fill="freeze" repeatCount="1" />
+        <animate attributeName="opacity" from="1" to="0" dur="1s" begin="29s" fill="freeze" repeatCount="1" />
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0 0" to="0 150" dur="1s"
+            begin="24s" fill="freeze" repeatCount="1" additive="sum" />
+        <animateTransform attributeName="transform" attributeType="XML" type="scale" from="1 1" to="1 -1" dur="2s"
+            begin="26s" fill="freeze" repeatCount="1" additive="sum" />
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0 0" to="0 -78" dur="1s"
+            begin="26s" fill="freeze" repeatCount="1" additive="sum" />
+        <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="-60.5, 195, 115"
+            dur="1s" begin="27s" fill="freeze" repeatCount="1" additive="sum" />
+    </polygon>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="505" height="410" viewBox="0 0 505 820" id="figure">
+    <rect className="parallellogram" x="1.5" y="15" width="600" height="300" fill="none" stroke="#fff" strokeWidth="5"
+        transform="skewX(-30)">
+        <animateTransform attributeName="transform" attributeType="XML" type="skewX" from="-30" to="0" dur="1s"
+            begin="0s" fill="freeze" repeatCount="1" />
+    </rect>
+    <rect className="parallellogram" x="1.5" y="15" width="600" height="300" fill="none" stroke="#fff"
+        strokeDasharray="30,30" strokeWidth="5" transform="skewX(-30)">
+        <animate attributeName="opacity" from="1" to="0.3" dur="1s" begin="1s" fill="freeze" repeatCount="1" />
+    </rect>
+    <g>
+        <g transform="translate(-105 -930)">
+            <line x2="60" transform="translate(110 1176)" fill="none" stroke="#55fe01" strokeLinecap="square"
+                strokeWidth="4" />
+            <line x1="60" transform="translate(170 1176) rotate(90)" fill="none" stroke="#55fe01" strokeLinecap="square"
+                strokeWidth="4" />
+        </g>
+        <text transform="translate(75 165)" fill="#55fe01" fontSize="60" fontFamily="Rubik-Regular, Rubik">
+            <tspan x="0" y="65">
+                90°
+            </tspan>
+        </text>
+        <line x2="60" y2="3" transform="translate(-25 150)" fill="none" stroke="#01d5fe" strokeWidth="4" />
+        <line x2="60" y2="3" transform="translate(575 150)" fill="none" stroke="#01d5fe" strokeWidth="4" />
+
+        <line x1="29" y2="59" transform="translate(300 -5)" fill="none" stroke="#ff7f11" strokeWidth="5" />
+        <line x1="28" y2="58" transform="translate(320 -5)" fill="none" stroke="#ff7f11" strokeWidth="5" />
+
+        <line x1="29" y2="59" transform="translate(270 275)" fill="none" stroke="#ff7f11" strokeWidth="5" />
+        <line x1="28" y2="58" transform="translate(290 275)" fill="none" stroke="#ff7f11" strokeWidth="5" />
+        <animate attributeName="opacity" from="0" to="0" dur="1s" begin="0s" fill="freeze" repeatCount="1" />
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1s" fill="freeze" repeatCount="1" />
+    </g>
+</svg>

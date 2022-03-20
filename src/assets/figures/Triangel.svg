@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="500" height="410" viewBox="0 0 500 410" id="figure">
+    <g transform="translate(135 50)">
+        <line x2="150" fill="none" stroke="#fff" strokeWidth="5">
+            <animateTransform attributeName="transform" attributeType="XML" type="rotate" values="0 100 0; -60 100 0"
+                dur="1s" begin="1s" fill="freeze" repeatCount="1" additive="sum" />
+            <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0 0" to="-75 -10"
+                dur="1s" begin="1s" fill="freeze" repeatCount="1" additive="sum" />
+        </line>
+    </g>
+    <g transform="translate(135 100)">
+        <line x1="253" fill="none" stroke="#fff" strokeWidth="5">
+            <animateTransform attributeName="transform" attributeType="XML" type="rotate" values="0 125 0; 30 125 0"
+                dur="1s" begin="1s" fill="freeze" repeatCount="1" />
+            <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0 0" to="65 -5"
+                dur="1s" begin="1s" fill="freeze" repeatCount="1" additive="sum" />
+        </line>
+    </g>
+    <g transform="translate(135 150)">
+        <line x1="300" fill="none" stroke="#fff" strokeWidth="5">
+            <animateTransform attributeName="transform" attributeType="XML" type="rotate" values="0 150 0; -1.5 150 0"
+                dur="1s" begin="1s" fill="freeze" repeatCount="1" additive="sum" />
+            <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0" to="0 47" dur="1s"
+                begin="1s" fill="freeze" repeatCount="1" additive="sum" />
+        </line>
+    </g>
+    <g>
+        <g transform="translate(215 70) scale(0.8) rotate(30)">
+            <path d="M0,27.2s17.582,1.244,28.066-5.557S41.937,0,41.937,0" fill="none" stroke="#da8dfd"
+                strokeWidth="3" />
+            <line x2="20" y2="20" transform="translate(17 7)" fill="none" stroke="#da8dfd" strokeWidth="3" />
+        </g>
+        <g transform="translate(340 148) scale(0.8) rotate(10)">
+            <path d="M6.422,0S-.81,14.275.075,27.282,9.961,52.028,9.961,52.028"
+                transform="matrix(0.999, -0.035, 0.035, 0.999, 22.002, 1.067)" fill="none" stroke="#c8dbe4"
+                strokeWidth="3" />
+            <line x1="39" y1="1" transform="translate(0.045 21)" fill="none" stroke="#c8dbe4" strokeWidth="3" />
+            <line x1="39" y2="1" transform="translate(0.045 33)" fill="none" stroke="#c8dbe4" strokeWidth="3" />
+        </g>
+        <g transform="translate(164 154) scale(0.8) rotate(20)">
+            <path d="M0,.008S15.741-1.089,25.077,5.7,37.345,27.148,37.345,27.148"
+                transform="matrix(1, -0.017, 0.017, 1, 0.132, 18.443)" fill="none" stroke="#55fe01" strokeWidth="3" />
+            <line y1="34" x2="16" transform="translate(5.367 0.734)" fill="none" stroke="#55fe01" strokeWidth="3" />
+            <line y1="41" x2="23" transform="translate(13.367 0.734)" fill="none" stroke="#55fe01" strokeWidth="3" />
+            <path d="M20.65,3.228,0,34" transform="translate(24.867 9.587)" fill="none" stroke="#55fe01"
+                strokeWidth="3" />
+        </g>
+        <animate attributeName="opacity" from="0" to="0" dur="2s" begin="0s" fill="freeze" repeatCount="1" />
+        <animate attributeName="opacity" from="0" to="1" dur="1s" begin="2s" fill="freeze" repeatCount="1" />
+    </g>
+</svg>

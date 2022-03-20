@@ -1,29 +1,25 @@
 #root {
     height: 100%;
     display: grid;
-    grid-template-columns: 10% 25% 55% 10%;
-    grid-template-rows: 15% auto;
+    grid-template-columns: 8% 29% 65% 8%;
+    grid-template-rows: 17% auto;
     grid-template-areas: ". header header ."". aside main ."". footer footer .";
 
     @media (max-width: 768px) {
 
-        grid-template-columns: 100%;
+        grid-template-columns: 5% 90% 5%;
         grid-template-rows: 10% auto;
-        grid-template-areas: "header""aside""main""footer";
+        grid-template-areas: ". header ."". main . "". footer .";
 
         .header {
             grid-area: header;
         }
 
-        .aside {
-            grid-area: aside;
-            margin-left: 2rem;
-        }
-
         .main {
-            grid-area: main;
-            margin-top: -10rem;
-
+            position: absolute;
+            top: 25%;
+            left: 50%;
+            transform: translate(-50%, -15%);
         }
 
         .footer {

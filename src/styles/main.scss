@@ -1,1 +1,15 @@
-@import 'reset', 'typography', 'grid', 'app', 'navigation', 'header', 'footer', 'figures', 'icons';
+@import 'abstracts/variables';
+
+@import 'base/app',
+'base/reset',
+'base/typography';
+
+@import 'components/figures',
+'components/logo',
+'components/navigation';
+
+@import 'layout/footer',
+'layout/header',
+'layout/grid';
+
+@import 'vendors/doodle';

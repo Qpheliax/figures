@@ -1,0 +1,33 @@
+.figure {
+    margin-top: 6rem;
+
+    @media (max-width: 768px) {
+        margin-top: 1rem;
+
+        svg {
+            width: 300px;
+            height: 250px;
+        }
+    }
+}
+
+#figure {
+    filter: url(#pencil);
+
+    _::-webkit-full-page-media,
+    _:future,
+    :root .safari_only {
+        filter: none;
+    }
+
+    @media not all and (min-resolution:.001dpcm) {
+        @supports (-webkit-appearance:none) {
+            filter: none;
+        }
+    }
+
+}
+
+#reload {
+    cursor: pointer;
+}

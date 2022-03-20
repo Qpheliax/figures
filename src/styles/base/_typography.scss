@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;700&family=Zen+Dots&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+.h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 2rem;
+    line-height: 1.5;
+    color: white;
+    text-align: center;
+    filter: drop-shadow(1px 1px 2px black);
+
+    @media (max-width: 768px) {
+        font-size: 0.8rem;
+        margin-bottom: 2.1rem;
+    }
+
+    .luck {
+        text-align: center;
+
+        &__triangel {
+            color: #ffd300;
+        }
+    }
+
+}
+
+.start {
+    text-align: left;
+}
+
+.listItem {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 1.5rem;
+    letter-spacing: 1.5px;
+    line-height: 1.9;
+    color: white;
+
+    &:hover {
+        text-decoration: underline;
+    }
+
+    &:nth-child(1) {
+        font-size: 1.65rem;
+    }
+
+    &:nth-child(5) {
+        font-size: 1.65rem;
+    }
+
+    &:nth-child(n + 2):nth-child(-n + 4) {
+        margin-left: 1rem;
+    }
+
+    &:nth-child(n + 6):nth-child(-n + 8) {
+        margin-left: 1rem;
+    }
+
+    &:nth-child(n + 9):nth-child(-n + 13) {
+        margin-left: 1rem;
+    }
+
+    span {
+        cursor: pointer;
+    }
+
+    @media (max-width: 768px) {
+        margin: 0;
+        font-size: 1rem;
+
+        &:nth-child(1) {
+            font-size: 1.3rem;
+        }
+
+        &:nth-child(5) {
+            font-size: 1.3rem;
+        }
+    }
+
+}
+
+.active {
+    color: #ffd300;
+}

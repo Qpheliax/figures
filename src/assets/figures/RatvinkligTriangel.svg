@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="505" height="410" viewBox="0 0 505 1230" id="figure">
+    <polygon points="590,500 590,210 -90,500" x="1.5" y="15" width="600" height="300" fill="none" stroke="#fff"
+        strokeWidth="6"></polygon>
+    <rect x="300" y="210" width="290" height="290" fill="none" strokeWidth="10" stroke="#8f0e00"
+        strokeDasharray="32, 32">
+        <animate attributeName="opacity" from="0" to="0" dur="1s" begin="0s" fill="freeze" repeatCount="1" />
+        <animate attributeName="opacity" from="0" to="1" dur="1s" begin="1s" fill="freeze" repeatCount="1" />
+        <animate attributeName="opacity" from="1" to="0" dur="1s" begin="3s" fill="freeze" repeatCount="1" />
+    </rect>
+    <g transform="translate(545 450) scale(1.4)">
+        <line x2="30" fill="none" stroke="#55fe01" strokeLinecap="square" strokeWidth="4" />
+        <line x1="30" transform="rotate(90)" fill="none" stroke="#55fe01" strokeLinecap="square" strokeWidth="4" />
+        <text transform="translate(-70 -70)" fill="#55fe01" fontSize="40" fontFamily="Rubik-Regular, Rubik">
+            <tspan x="0" y="65">
+                90°
+            </tspan>
+        </text>
+        <animate attributeName="opacity" from="0" to="0" dur="1s" begin="0s" fill="freeze" repeatCount="1" />
+        <animate attributeName="opacity" from="0" to="1" dur="1s" begin="1s" fill="freeze" repeatCount="1" />
+    </g>
+</svg>

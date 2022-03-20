@@ -1,0 +1,70 @@
+.logo_container {
+    margin-top: 1rem;
+
+}
+
+#logo {
+    font-family: 'Zen Dots', cursive;
+    fill: $logo-fill-color;
+
+    text {
+        text-transform: uppercase;
+        font-size: 3.3rem;
+        stroke-width: 2;
+        stroke: $logo-fill-color;
+        stroke-dasharray: 500;
+        stroke-dashoffset: 0;
+
+        animation: stroke 5s linear;
+
+    }
+
+    @keyframes stroke {
+
+        0% {
+            stroke-dashoffset: 0;
+            fill: $logo-0;
+        }
+
+        40% {
+            stroke-dashoffset: 500;
+            fill: $logo-03;
+        }
+
+        80% {
+            stroke-dashoffset: 1000;
+            fill: logo-06;
+        }
+
+        100% {
+            stroke-dashoffset: 1000;
+            fill: $logo-fill-color;
+
+        }
+    }
+
+    &:hover {
+        cursor: pointer;
+        fill: none;
+    }
+
+    @media (max-width: 768px) {
+        display: none;
+    }
+
+}
+
+#logo_figures {
+    margin-right: 1rem;
+
+    &:hover {
+        cursor: pointer;
+        fill: none;
+    }
+
+    @media (max-width: 768px) {
+        width: 80px;
+        margin-right: 0rem;
+    }
+
+}
